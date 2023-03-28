@@ -2,9 +2,9 @@
 :root {
     /* theme color palette */
     --dracula-primary: #110D0A;
-    --dracula-secondary: #382613;
-    --dracula-secondary-alpha: rgba(36, 38, 49, 0.9);
-    --dracula-tertiary: #50361b;
+    --dracula-secondary: rgb(21, 16, 13);
+    --dracula-secondary-alpha: rgba(21, 16, 13, 0.9);
+    --dracula-tertiary: #20222c;
     --dracula-tertiary-alpha: rgba(32, 34, 44, 0.6);
     --dracula-primary-light: #44475a;
     --dracula-accent: #D1B7A1;
